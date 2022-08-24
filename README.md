@@ -1,3 +1,10 @@
 # MachineLearingProjects
 1. NBA_Player_Position_Prediction [Code](https://github.com/SanyamSwami123/MachineLearingProjects/blob/main/NBA_Players_Position%20_Prediction.ipynb)
 [Dataset](https://github.com/SanyamSwami123/MachineLearingProjects/blob/main/Datasets/nba_2013.csv)
+[kaggle](https://www.kaggle.com/code/sanyamswami/nba-player-position-prediction?kernelSessionId=102331824)
+2. RedWineQualityUsingRegressorsOfClassifiers [Code](https://github.com/SanyamSwami123/MachineLearingProjects/blob/main/RedWineQualityUsingRegressorsOfClassifiers.ipynb)
+[Dataset](https://github.com/SanyamSwami123/MachineLearingProjects/blob/main/Datasets/winequality-red.csv)
+[Kaggle](https://www.kaggle.com/code/sanyamswami/redwinequalityusingregressorsofclassifiers?kernelSessionId=104090325)
+3. Online_Shoppers_Intention_Classification_Machine_Learning_Project [Code](https://github.com/SanyamSwami123/MachineLearingProjects/blob/main/Online_Shoppers_Intention_Classification_Machine_Learning_Project.ipynb)
+[Dataset](https://github.com/SanyamSwami123/MachineLearingProjects/blob/main/Datasets/Coursework_1_data.csv)
+[Kaggle](https://www.kaggle.com/code/sanyamswami/online-shoppers-purchasing-intention?kernelSessionId=103319710)
